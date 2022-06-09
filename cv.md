@@ -1,5 +1,4 @@
 # CV Julia Nikitenko
----------------------
 ## Junior Frontend Developer
 ### Contact Information 
 
